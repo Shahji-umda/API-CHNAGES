@@ -1,0 +1,37 @@
+h1{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+body {
+    background-color: lightcoral;
+}
+
+
+button {
+    background-color: green;
+    color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+button:hover {
+    background-color: darkorange;
+    color: black;
+}
+
+input {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+
+ul {
+    list-style: circle;
+}
